@@ -34,4 +34,4 @@ matplotlib
 seaborn
 Notes
 To corretly display the graphs I recommend opening the project on nbviewer. This is the link:
-
+https://nbviewer.org/github/CrisLap/Food-Project---Data-manipulation-and-visualisation---Who-eats-the-food-we-grow---EDA/blob/main/Food%20Project%20-%20Data%20manipulation%20and%20visualisation%20%20-%20Who%20eats%20the%20food%20we%20grow%20-%20%20EDA.ipynb
