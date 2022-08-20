@@ -19,7 +19,7 @@ The work must be delivered bearing in mind that the Jupyter notebook must be sim
 
 The project must be divided in 6 parts:
 
-Discovery (problem identification and objectives)
+Discovery (problem identification and objectives)<br>
 Data selection<br>
 Data cleaning<br>
 Data exploration<br>
