@@ -1,7 +1,6 @@
 Data Manipulation and Visualization - Food project
 
-Data used and context
-This is the second project of the Data Science course of start2impact.
+Data used and context: this is the second project of the Data Science course of start2impact.
 
 The use of two datases was suggested. All datases are available on Kaggle:
 
