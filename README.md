@@ -20,11 +20,11 @@ The work must be delivered bearing in mind that the Jupyter notebook must be sim
 The project must be divided in 6 parts:
 
 Discovery (problem identification and objectives)
-Data selection
-Data cleaning
-Data exploration
-Data transformation
-Data visualization
+Data selection<br>
+Data cleaning<br>
+Data exploration<br>
+Data transformation<br>
+Data visualization<br>
 
 Libraries used
 numpy
@@ -34,6 +34,6 @@ missingno
 matplotlib
 seaborn
 
-Notes
+Notes:<br>
 To corretly display the graphs I recommend opening the project on nbviewer. This is the link:
 https://nbviewer.org/github/CrisLap/Food-Project---Data-manipulation-and-visualisation---Who-eats-the-food-we-grow---EDA/blob/main/Food%20Project%20-%20Data%20manipulation%20and%20visualisation%20%20-%20Who%20eats%20the%20food%20we%20grow%20-%20%20EDA.ipynb
